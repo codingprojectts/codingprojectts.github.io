@@ -113,6 +113,18 @@ height:auto;}
 padding:15px;
 width:30%;
 float:left;
+height: auto;
+}
+
+.gallery .container .proj img{
+  display:block;
+  max-width:300px;
+  height:200px;
+}
+
+a{
+  text-decoration: none;
+  align-content: center;
 }
 
 .container{
@@ -120,7 +132,6 @@ text-align:center;
 width:80%;
 
 }
-
 
 
 .copyright {
