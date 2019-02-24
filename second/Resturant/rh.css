@@ -1,0 +1,52 @@
+.container {width:1170px; margin:auto;}
+.header {background-color: rgb(191, 188, 214) ;overflow: hidden; border-style: double;
+ width: 99%; margin: 0%;width: 100%;}
+.header .logo{float: left}
+.header .navbar{float: right;padding-top: 10px;}
+.header .logo h1 {font-family: Snap ITC; font-size: 50px;color: rgba(71, 61, 139, 0.534);margin: 0%;}
+.header  span {color: darkslateblue}
+.header .navbar ul {list-style: none;
+    float: right;margin: 0%; font-size: 20px; padding: 0%; 
+    overflow: hidden;}
+    .ddp {display: none}
+    .ddp a{display: block}
+    .dp:hover .ddp {display: block}
+    .header ul li { display: inline;
+        float: left; padding: 10px;color: white;}
+        .header .navbar ul li a{text-decoration: none;
+        color: darkslateblue}
+        .header .navbar ul li a:hover{ color: white}
+        .home {height: 600px; width: 100% }
+            .porto {text-align: center ; background-color: rgb(191, 188, 214);
+                height: 800px;width: 100%; color: white; padding-top: 100px}
+                .porto h1 {margin: 0%; font-family: Castellar}
+            .porto .img {float: left;}
+            .porto p { font-size: 30px; font-family: Monotype Corsiva}
+            .porto span {color: blue; font-size: 40px;font-family: Monotype Corsiva}
+            .porto1 {text-align: center ; background-color: rgb(191, 188, 214);
+                height: 800px;width: 100%; color: white; padding-top: 100px}
+                .porto1 h1 {margin: 0%; font-family: Castellar }
+            .porto1 .img {float: right;}
+            .porto1 p { font-size:30px; font-family:Monotype Corsiva }
+            .porto1 span {color: blue; font-size: 40px;font-family: Monotype Corsiva}
+            .porto2 {text-align: center ; background-color: rgb(191, 188, 214);
+                height: 800px;width: 100%; color: white; padding-top: 100px}
+                .porto2 h1 {margin: 0%; font-family: Castellar}
+            .porto2 .img {float: left;}
+            .porto2 p { font-size: 30px; font-family: Monotype Corsiva }
+            .porto2 span {color: rgb(3, 3, 182); font-size: 40px;font-family: Monotype Corsiva}
+            .form {background-color:rgb(191, 188, 214); width: 100%; height: 500px;text-align: center}
+         .form h2 {margin: 0%; padding: 20px;font-size: 40px;text-transform: capitalize; color: white}
+         .form button {width: 100px; height: 50px;background-color: darkseagreen}
+         .form .con {float: right;width:50%}
+         .form .con form input {width: 300px; height: 50px; text-align: center;
+            border-top-left-radius:  10px ;border-bottom-right-radius: 10px ; background-color: rgb(216, 166, 241)  }
+         .form .con form textarea{width: 300px;border-bottom-right-radius: 10px ;
+             border-top-left-radius:  10px; background-color: rgb(216, 166, 241)}
+         .form .con form input:focus {color: white;background-color:rgb(184, 20, 230)}
+         .form .imm {float: left;width:50%}
+         .footer {background-color: rgb(191, 188, 214); width: 100%; height: 50px;}
+         .footer .copy{float: left;}
+         .footer .copy p {font-family: cursive;font-size: 15px;}
+         .footer .media {float: right;}
+

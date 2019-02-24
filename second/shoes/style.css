@@ -1,0 +1,87 @@
+*{margin: 0;padding: 0}
+body{font-family: Arial, Helvetica, sans-serif; background-image:url("DC.JPG"); text-transform: capitalize;}
+.container{width: 80%;margin: auto;}
+.header{height: 100px;
+    background-color: rgb(211, 0, 116);overflow: hidden;
+   
+}
+.header .logo {float: left;}
+.header.logo h1{text-transform: uppercase;background-color: black;font-size: 30px; }
+.header .logo h1 span{color: hotpink}
+.nav ul{list-style: none;
+padding-left: 0;overflow: hidden;
+float: right;
+}
+.nav ul li{display:inline;
+    background-color: mediumorchid;
+    border-radius:100px;font-size: 17px;
+margin:9px;
+  padding-top: 16px;padding:5px;
+  
+} 
+.header .nav{
+    padding-top: 10px;
+}
+.nav ul li a{color: aliceblue;
+    text-decoration: none;
+}
+.nav2 ul li{display:inline;
+    background-color: rgb(243, 239, 241);
+    border-radius:100px;font-size: 17px;
+margin:9px;color:rgb(230, 17, 166);
+  padding-top: 16px;padding:5px;}
+
+
+.home .container{text-align: center}
+.items{
+    text-align: center; color: pink}
+.items  .prod a{background-color: rgb(245, 40, 142);border-radius: 25%;color: rgb(14, 9, 9);padding: 10px;margin-top: 20px;}
+.items  .prod {padding: 9px; text-align: center;
+    width: 300px; height: 400px;
+    border:1px solid #000;
+    margin: 2%;
+    float: left;
+    background-color: hotpink
+}
+.about{clear: both; background-color: rgb(229, 30, 255) ;padding-bottom: 20px;}
+
+.about h1{color: rgb(255, 0, 119);
+    text-align: center;padding-top: 40px;
+
+}
+.about p{
+    font-size: 30px; font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+
+}
+.form .sa{float: left;width: 40%;}
+.form{background-color: lightpink ;overflow: hidden;text-align: center;margin: 17px;padding: 25px;
+    
+padding: 40px;text-align: center;text-align: center;
+}
+.form .sa input{text-align: center; border:2px solid red;border-radius: 30px;
+    margin: 20px;
+}
+.form h1{
+    
+        
+    font-size: 40px;text-transform: capitalize;text-align: center;}
+ .footer{
+     padding:10px;
+     color:white;
+     background-color: black ;
+     height:340px;
+ }
+ .footer .nav1{
+     width:30%;
+     float: left;
+ }
+ .footer .nav1 ul li{
+     list-style: none;padding: 10px;
+ }
+ .footer .nav1 .sup input{background-color:rgb(241, 93, 142);
+    margin: 20px;
+  width: 200px;height: 20px;  color: rgb(14, 9, 9)   ; border: 2px solid wheat; border-radius: 30px; 
+ }
+ .home .container .carousel-inner .carousel-item  img{width:1170px; height: 400px;}

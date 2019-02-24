@@ -1,0 +1,95 @@
+.container{width:1170px;margin: auto }
+/*..........................................................start header.........................................................*/
+.header{height: 60px;width: 100%;background-color: #268484;}
+.header .logo{float: left;}
+.header .nav {float: right;}
+.header .logo h1{font-size: 25px;font-weight: bold;text-transform: uppercase;padding-top: 3px;}
+.header .logo h1 span{color:  #cacace;}
+.header .nav ul{list-style: none;}
+.header .nav ul li{display: inline;float: left;padding: 5px;}
+.header .nav ul li a{text-decoration:none;color:white;font-size: 20px;padding-right: 7px ;}
+.header .nav  ul li a:hover{color:  #cacace;font-size: 23px;}
+  /*............................................................end header........................................................*/
+
+
+
+
+/*...............................................................start navber......................................................*/
+
+.navber {height: 70px; background-color:  #f3eabf;width: 100%;}
+.navber .aya{float: right}
+.navber .aya ul {list-style: none;float: right;}
+.navber .aya ul li{float: left;padding-right: 40px;}
+.navber  .aya ul  li a{text-decoration: none;color:  #3f8484;font-size: 22px;}
+.navber .aya ul li a:hover{color: firebrick}
+.navber .furn{float: left}
+.navber h1 span { color: #3f8484;}
+/*.................................................................end navbar.......................................................*/
+
+
+
+
+
+/*................................................................start home......................................................*/
+.home {width: 100%;margin: 0;}
+.home .carousel-item{width: 100%;height: 500px;}
+/*.................................................................end home.......................................................*/
+
+
+/*................................................................start mesi.......................................................*/
+
+.mesi{background-color: #b5a491;width: 100%;height: 650px;overflow: hidden;}
+.mesi h2{text-align: center;color: #4e3b35;font-size: 50px;font-family: Arial, Helvetica, sans-serif;padding-top:12px;   }
+.mesi .img {width: 50%; float: left;text-align: center;padding-top: 40px;}
+.mesi .img img {width: 100%;border-bottom-right-radius: 50px;border-top-left-radius: 50px;}
+.mesi .imm{float:right; width: 45%;;font-size: 30px; font-family: 'Times New Roman', Times, serif;margin-top: 40px;}
+
+/*.................................................................end mesi........................................................*/
+
+
+/*...................................,............................start boll........................................................*/
+
+.boll{background-color: #d5bb8f;width: 100%;height: 1200px;overflow: hidden;padding-bottom: 12%;}
+.boll h2{text-align: center;color:  #4e3b35;font-size: 50px;font-family: Arial, Helvetica, sans-serif; padding-top: 12px; }
+.boll .ter{width: 33.33%; float: left;text-align: center;padding-top: 40px;}
+.boll .ter img {width: 90% ;border: 3px  solid  #d5bb8f;border-bottom-right-radius: 40px;border-top-left-radius: 40px;}
+.boll .fgh {width: 100%;text-align: center;}
+.boll .ter p{padding: 6%;}
+.boll .ter button {border:1px solid  #4e3b35;width: 200px;height: 70px;background-color: #4e3b35;text-align:center;font-size: 20px;color: #d5bb8e;border-bottom-right-radius: 20px;border-top-left-radius: 20px; }
+
+
+ /*................................................................end boll.............................................................*/
+
+
+/*.................................................................start gg.............................................................*/
+
+.gg{background-color: #d5bb8e;text-align: center;height: 100px;}
+.gg .ll button {border:1px solid #4e3b35;width:500px;height:70px;background-color: #4e3b35;font-size: 20px;color: #d5bb8e;border-bottom-right-radius: 20px;border-top-left-radius: 20px;}
+        
+/*.....................................................................end gg............................................................*/
+ 
+/*................................................................start contuctus.........................................................*/
+
+.contuctus{color:  #f5b29d;font-size: 30px;font-family: Arial, Helvetica, sans-serif;background-color: #268484;width: 100%;height: 600px;overflow: hidden;text-align: center;}
+.contuctus h1 {text-align: center;padding-top: 12px;padding-bottom: 12px;}
+.contuctus .kk{float: left;width: 40%}
+.contuctus .kk img{width: 80%;height: 200px;border: 1px solid grey;border-bottom-right-radius: 40px;border-top-left-radius: 40px;}
+.contuctus .aa{float: right;width:60% }
+.contuctus .aa input[type="text"]{width: 400px;height: 34px;border: 3px solid #f5b29d;border-radius: 15px;padding:0 20px;font-size:16px;margin-bottom:15px }
+.contuctus .aa input[ type ="password"]{width: 400px;height:34px;border:3px solid #f5b29d;;border-radius:15px;padding:0 20px;font-size:16px;margin-bottom: 15px;}
+.contuctus .aa input[type="email"]{width: 400px;height: 34px;border: 3px solid #f5b29d;border-radius: 15px;padding:0 20px;font-size:16px;margin-bottom:15px }
+.contuctus .aa textarea {width: 400px;height: 200px;margin-bottom:15px; border: 3px solid #f5b29d;border-radius: 15px;padding: 0 20px;}
+.contuctus .aa  input[type="submit"]{width: 400px;height: 34px;margin-bottom:15px; border: 3px solid #f5b29d;border-radius: 15px;font-size: 20px;background-color: #f5b29d;font-family: Arial, Helvetica, sans-serif;color: #268484;}
+.contuctus .aa input[type="reset"] {width: 400px;height: 34px;margin-bottom: 15px;border:3px solid#f5b29d;border-radius:15px;font-size: 20px;background-color: #f5b29d;font-family: Arial, Helvetica, sans-serif;color:#268484; }
+.contuctus  .kk .rr img{width:40px;height: 40px;border-radius:0px; }
+/*................................................................end contuctus............................................................*/
+
+
+
+/*.................................................................start tt..................................................................*/
+
+.tt {background-color:white;width: 100%;height: 50px;font-size: 30px;font-family: Arial, Helvetica, sans-serif;color:#268484;text-align: center;}
+
+/*.................................................................end tt....................................................................*/
+
+

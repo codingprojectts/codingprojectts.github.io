@@ -1,0 +1,72 @@
+.container{width: 1170px;margin: auto;
+}
+.header{height: 80px;
+width: 100%;overflow: hidden;
+background-color: gray;}
+.header .logo{float: left;}
+
+.header .logo h1{font-size: 25px; font-weight:bold;
+text-transform: uppercase;
+padding-top: 3px;margin: 0;
+ }
+ .header .logo h1 span{color: orchid}
+ .header .nav{float:right}
+ .header .nav ul{list-style: none} 
+ .header .nav ul li{display: inline;float:left;
+padding: 5px;}
+.home { background-image:url(img/1.jpg);margin: 0;
+height: 600px;
+width: 100%; margin-top: 0;text-align: center;}
+.home h2{margin: 0;padding-top: 200px;color: fuchsia;
+font-size: 30px;}
+.home button{background: none;
+width: 200px;height: 80px; color: dodgerblue;
+font-size: 20px;
+}
+/*start portofolio*/
+
+.porto{background-color: pink; height: 1300px;}
+.porto h1{ 
+text-align: center;
+font-size: 30px;
+padding: 30px;
+margin: 0;
+
+}
+.porto .photo{background-color: gray;
+width: 25%;
+ float: left;
+ height: 500px;
+padding: 30px;
+margin: 7px;
+
+text-align: center;}
+.porto .photo img {width: 100%;}
+.photo .photo p {font-size: 25px; text-align: center;
+text-transform: capitalize;}
+
+.porto .photo button{width: 200px;
+height: 80px;
+font-size: 30px;}
+.contactus {width: 100%;
+height: 800px;
+background-color: darkviolet;
+text-align: center;
+}
+.contactus h2{margin: 0;
+padding-top:30px;
+font-size: 30px;
+text-transform: capitalize;
+}
+.contactus form input{width: 600px;
+height: 40px;
+text-align: center;
+margin: 15px
+
+}
+.contactus form textarea{width: 600px;
+}
+.contactus form input:focus{background-color: darkgoldenrod;}
+.footer {width: 100%;height: 80px;background-color: cyan;}
+.footer p{margin: 0
+    ;}

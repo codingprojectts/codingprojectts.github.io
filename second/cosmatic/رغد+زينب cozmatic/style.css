@@ -1,0 +1,196 @@
+.container{width: 1170px;
+    margin: 0%;}
+    .container1{width: 1170px;
+        margin: 0%;}
+        .carousel-inner img {
+            width: 100%;
+            height: 500px;
+        }
+        body{text-transform: capitalize;}
+        /*start header*/
+.header{width: 1320px;
+height: 80px;position: fixed;
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+border: 5px solid purple;border-radius: 20px; }
+.header .logo{float: left;}
+.header .logo h1{color:purple;
+font-size: 60px;
+font-weight: bold;
+margin:0;
+padding-left: 30px;padding-top: 10px;}
+.header .nav{float: right;}
+.header .nav ul{list-style: none;
+padding-top: 15px;}
+.header .nav ul li{display: inline;
+float: left;}
+.header .nav ul li a{font-size:20px;
+text-decoration: none;
+color:purple;
+padding-right: 20px;}
+.header .nav ul li a:hover{color:black;
+font-size: 30px;}
+.head{background-color: white;
+height: 400px; 
+width: 100%;}
+/*end header*/
+/*start head*/
+.head .img{padding-left: 50%;
+    padding-top: 50px;}
+.head .navbar{float: right;}
+.head .navbar ul{list-style: none;padding-top: 15px;}
+.head .navbar ul li{display: inline;text-align: center;
+    }
+    .head .navbar ul li a{font-size:60px;
+        text-decoration: none;
+        color: purple;
+        padding-right: 50px;}
+        .head .navbar ul li a:hover{color:black;
+            font-size: 72px;}
+            /* end head*/
+            /*start home
+.home {background-image:url("img/9.jpg");
+width: 100%;
+height: 500px;
+background-size: cover;}*/
+.mm{width: 100%;
+height: 100px;}
+.mm p{font-size: 30px;
+color: purple;
+text-align: center;}
+/*end home*/
+/*start porto*/
+.porto{
+    width: 100%;
+height: 200px;}
+    .porto .photo{background-color:palevioletred;
+    width: 25%;
+    float:left;
+    height: 150px;
+text-align: center; 
+padding: 10px;
+margin: 40px;
+}
+.porto .photo a{
+font-size: 50px;
+text-decoration: none;}
+/*end porto*/
+/*start perfumes*/
+
+.Perfumes{
+    width: 100%;
+height: 400px;
+padding: 10PX;
+margin: 10PX;}
+    .Perfumes .pic{
+    width: 30%;
+    float:left;
+    height: 200px;margin: 0;}
+.Perfumes .p1 p{margin: 0;
+font-size: 30px;width: 70%;
+float: right;
+text-align: justify;}
+/*end perfumes*/
+
+ /*start accessories*/
+.accessories{
+    width: 100%;
+height: 350px;
+padding: 10PX;
+margin: 10PX;}
+    .accessories .pic{
+    width: 30%;
+    float:right;
+    height: 200px;margin-right: -65px;}
+.Perfumes  .p1 {
+    margin-right: -65px;}
+.accessories .p1 p{margin: 0;
+font-size: 30px;width: 70%;
+float: left;
+text-align: justify;}
+/*end accessories*/
+/*start makeup*/
+.Makeup{
+    width: 100%;
+height: 400px;
+padding: 10PX;
+margin: 10PX;}
+    .Makeup .pic{
+    width: 30%;
+    float:left;
+    height: 200px;   
+}
+
+.Makeup .p1 p{margin: 0;
+font-size: 30px;width: 70%;
+float: right;
+text-align: justify;margin-right: -65px;}
+/*end makeup*/
+ /*page index2*/
+ /*start prices*/
+.prices{width: 100%; height: 1500px;
+text-align: center;
+}
+.prices .ra{float: left;
+width: 20%;
+text-align: center;
+margin-top: 30px;
+margin-left: 150px;
+}
+.prices .ra img{border-radius: 20%;width: 97%;}
+.prices .ra p{font-size: 25px;
+font-weight: bold;}
+.prices .ra p span{color: green;}
+.prices .ra button {border-radius: 20%;width: 80%;height: 40px;
+margin-bottom: 15px;}
+.prices .ra button:hover{background-color: purple;}
+/*end prices*/
+/*start page index3*/
+.contactus{width: 100%;
+height: 500px;
+
+}
+.contactus .one{float: left;
+width: 25%;
+height: 400px;
+text-align: center;
+margin: 15px;}
+.contactus .one form input{height: 50px; border-radius: 10%;
+    border: 3px solid purple;
+    text-align: center; 
+    margin: 10px;
+    font-size: 25px;
+    font-weight: bold;
+width: 330px;}
+.contactus .one form input[type=submit]{height: 40px; font-size: 20px;
+width: 100px;
+text-align: center;}
+.contactus .one textarea{width: 350px;
+height: 200px; font-size: 25px;
+font-weight: bold;
+border: 3px solid purple;
+border-radius: 10%;}
+.contactus .za{float: right;
+width: 60%;
+}
+.contactus .za .google-maps{position: relative;
+padding-bottom: 75%;
+height: 0;
+}
+.contactus .za .google-maps iframe{position: absolute;
+width: 100%;
+height: 100%;}
+.contactus .one form input:focus{background-color:rgb(250, 84, 250);}
+.footer {width: 1320px;
+    height: 80px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid purple;border-radius: 20px; }
+.footer p{font-size: 30px;
+color: purple;
+float: left;
+padding-bottom: 20px;
+padding-left: 10px;}
+.footer img{float: right;
+padding-top: 20px;
+padding-left:20px;}
